@@ -1,4 +1,6 @@
 ### Hi there 👋
+Currently I'm pursuing BTech in Computer Science Engineering from Indian Institute of Information Technology, Ranchi.
+I'm currently learning Data Structures and Algorithms.
 
 <!--
 **caffeine-coder25/caffeine-coder25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
