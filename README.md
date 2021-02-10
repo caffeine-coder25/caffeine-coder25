@@ -20,7 +20,7 @@ I'm Shubham, currently pursuing BTech in Computer Science Engineering from India
 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=caffeine-coder25&show_icons=true&theme=dark&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caffeine-coder25&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caffeine-coder25&layout=compact&theme=dark)]
 
 ### Connect with me:
 
