@@ -12,6 +12,8 @@ I'm Shubham, currently pursuing BTech in Computer Science Engineering from India
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />][Codechef]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" />][Codeforces]
 
+<br />
+
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
