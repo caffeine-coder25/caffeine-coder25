@@ -13,12 +13,10 @@ I'm Shubham, currently pursuing BTech in Computer Science Engineering from India
 
 ### My Coding Portfolios:
 
-<code>* [Codechef](https://www.codechef.com/users/cafeinecoder25)</code>   
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />] [Codechef](https://www.codechef.com/users/cafeinecoder25) <br/>
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" />][Codeforces]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerearth.svg" />][HackerEarth]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][HackerRank]
-
+<code>👨🏻‍💻 [Codechef](https://www.codechef.com/users/cafeinecoder25)</code>   
+<code>👨🏻‍💻 [Codeforces](https://codeforces.com/profile/caffeine_coder25)</code>  
+<code>👨🏻‍💻 [HackerEarth](https://www.hackerearth.com/@caffeine_coder25)</code>  
+<code>👨🏻‍💻 [HackerRank](https://www.hackerrank.com/caffeine_coder25)</code>  
 
 <br />
 
@@ -33,7 +31,3 @@ I'm Shubham, currently pursuing BTech in Computer Science Engineering from India
 [twitter]: https://twitter.com/shu6h_am
 [instagram]: https://instagram.com/shu6h.am
 [linkedin]: https://www.linkedin.com/in/caffeinecoder25/
-[Codechef]: https://www.codechef.com/users/cafeinecoder25
-[Codeforces]: https://codeforces.com/profile/caffeine_coder25
-[HackerEarth]: https://www.hackerearth.com/@caffeine_coder25
-[HackerRank]: https://www.hackerrank.com/caffeine_coder25
