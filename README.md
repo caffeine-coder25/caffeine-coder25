@@ -7,6 +7,11 @@ I'm Shubham, currently pursuing BTech in Computer Science Engineering from India
 - 🥅 2021 Goals: Contribute more to open source
 - ⚡ Fun fact: I love to play guitar and write
 
+### My Coding Portfolios:
+
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />][Codechef]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" />][Codeforces]
+
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -20,3 +25,5 @@ I'm Shubham, currently pursuing BTech in Computer Science Engineering from India
 [twitter]: https://twitter.com/shu6h_am
 [instagram]: https://instagram.com/shu6h.am
 [linkedin]: https://www.linkedin.com/in/caffeinecoder25/
+[Codechef]: https://www.codechef.com/users/cafeinecoder25
+[Codeforces]: https://codeforces.com/profile/caffeine_coder25
