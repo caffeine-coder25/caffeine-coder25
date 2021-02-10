@@ -13,21 +13,17 @@ I'm Shubham, currently pursuing BTech in Computer Science Engineering from India
 
 ### My Coding Portfolios:
 
-<code>👨🏻‍💻 [Codechef](https://www.codechef.com/users/cafeinecoder25)</code>   
-<code>👨🏻‍💻 [Codeforces](https://codeforces.com/profile/caffeine_coder25)</code>  
-<code>👨🏻‍💻 [HackerEarth](https://www.hackerearth.com/@caffeine_coder25)</code>  
-<code>👨🏻‍💻 [HackerRank](https://www.hackerrank.com/caffeine_coder25)</code>  
+<code> 👨🏻‍💻 [Codechef](https://www.codechef.com/users/cafeinecoder25)</code>   
+<code> 👨🏻‍💻 [Codeforces](https://codeforces.com/profile/caffeine_coder25)</code>  
+<code> 👨🏻‍💻 [HackerEarth](https://www.hackerearth.com/@caffeine_coder25)</code>  
+<code> 👨🏻‍💻 [HackerRank](https://www.hackerrank.com/caffeine_coder25)</code>  
 
 <br />
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<code> ✉️ [Mail](shubham022500@gmail.com)</code>  
+<code> ✉️ [Twitter](https://twitter.com/shu6h_am)</code>  
+<code> ✉️ [Linkedin](https://www.linkedin.com/in/caffeinecoder25/)</code>
 
 <br />
-
-[twitter]: https://twitter.com/shu6h_am
-[instagram]: https://instagram.com/shu6h.am
-[linkedin]: https://www.linkedin.com/in/caffeinecoder25/
