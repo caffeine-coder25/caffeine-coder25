@@ -13,6 +13,7 @@ I'm Shubham, currently pursuing BTech in Computer Science Engineering from India
 
 ### My Coding Portfolios:
 
+<code>* [Codechef](https://www.codechef.com/users/cafeinecoder25)</code>   
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />] [Codechef](https://www.codechef.com/users/cafeinecoder25) <br/>
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" />][Codeforces]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerearth.svg" />][HackerEarth]
