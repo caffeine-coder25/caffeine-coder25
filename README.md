@@ -18,6 +18,8 @@ I'm Shubham, currently pursuing BTech in Computer Science Engineering from India
 <code> 👨🏻‍💻 [HackerEarth](https://www.hackerearth.com/@caffeine_coder25)</code>  
 <code> 👨🏻‍💻 [HackerRank](https://www.hackerrank.com/caffeine_coder25)</code>  
 
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=caffeine-coder25)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect with me:
 
 <code> ✉️ [Mail](mailto:shubham022500@gmail.com)</code>  
