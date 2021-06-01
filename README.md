@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="hello.gif">
+<!--   <img src="hello.gif"> -->
+  <img src="cover_photo.png">
 </p>
 
 ### Hi there 👋
